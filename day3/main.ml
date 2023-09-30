@@ -1,4 +1,4 @@
-let input1 = "vJrwpWtwJgWrhcsFMMfFFhFp
+let _ = "vJrwpWtwJgWrhcsFMMfFFhFp
 jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL
 PmmdzqPrVvPwwTWBwg
 wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn
