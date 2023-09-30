@@ -1,6 +1,6 @@
 open Aoc1;;
 
-let file = "inputs/day1.txt"
+let file = "day1/inputs/day1.txt"
 
 let input =
   let ch = open_in file in
